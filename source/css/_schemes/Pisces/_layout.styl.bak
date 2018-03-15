@@ -65,7 +65,7 @@
   width: $content-desktop;
   background:transparent;
   
-  background-color:rgba(220,226,241,0.1)
+  background-color:rgba(220,226,241,0.2)
   min-height: 700px;
   box-shadow: $box-shadow-inner;
   border-radius: $border-radius-inner;
@@ -90,7 +90,7 @@
   width: $sidebar-desktop;
   background:transparent;
   
-  background-color:rgba(220,226,241,0.8)
+  background-color:rgba(220,226,241,0.4)
   box-shadow: none;
 
   +tablet() {
