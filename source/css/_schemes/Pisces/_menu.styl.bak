@@ -26,7 +26,7 @@
     the-transition();
 
     &:hover {
-      background: #DCE2F1;
+      background: #000000;
       border-bottom-color: white;
     }
   }
