@@ -140,6 +140,7 @@ scheme: Pisces
 
 # Posts / Categories / Tags in sidebar.
 site_state: true
+categories: true
 
 # Social Links.
 # Usage: `Key: permalink || icon`
@@ -483,7 +484,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: "MTAyMC8zNDg1MC8xMTM4Nw=="
+livere_uid: "MTAyMC8zNDg1MC8xMTM4Nw=="
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
